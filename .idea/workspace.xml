@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7284322e-7c83-47ad-b22d-48af448a8fd2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/web/src/views/AdminLogin.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/Registered.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/web/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/web" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1jonPQbCA3TCWEmu2loTR8jpSW1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\GoLand 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.cn" />
+      </map>
+    </environment>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="778" y="443" key="Github.CreateGistDialog" timestamp="1604912009705">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="778" y="443" key="Github.CreateGistDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1604912009705" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1604907071707">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1604907071707" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1604912176999">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1604912176999" />
+  </component>
+</project>
